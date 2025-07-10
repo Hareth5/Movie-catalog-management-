@@ -1,0 +1,288 @@
+Title: Forrest Gump
+Description: A drama film about a simple man.
+Release year: 2250
+Rating: 8.8
+
+
+Title: Gladiator
+Description: A historical film about a warrior.
+Release year: 2000
+Rating: 8.5
+
+
+Title: The Avengers
+Description: A superhero film about a team.
+Release year: 2012
+Rating: 8.0
+
+
+Title: Titanic
+Description: A romance film about a shipwreck.
+Release year: 1997
+Rating: 7.8
+
+
+Title: Braveheart
+Description: A historical film about a rebellion.
+Release year: 1995
+Rating: 8.3
+
+
+Title: Finding Nemo
+Description: An animated film about a lost fish.
+Release year: 2003
+Rating: 8.1
+
+
+Title: Interstellar
+Description: A sci-fi film about space exploration.
+Release year: 2014
+Rating: 8.6
+
+
+Title: Pulp Fiction
+Description: A crime film about intertwining stories.
+Release year: 1994
+Rating: 8.9
+
+
+Title: Star Wars
+Description: A sci-fi film about a galaxy far away.
+Release year: 1977
+Rating: 8.6
+
+
+Title: Avatar
+Description: A sci-fi film about an alien world.
+Release year: 2009
+Rating: 7.8
+
+
+Title: Blade Runner
+Description: A sci-fi film about replicants.
+Release year: 1982
+Rating: 8.1
+
+
+Title: Batman Begins
+Description: A superhero film about a dark knight.
+Release year: 2005
+Rating: 8.2
+
+
+Title: Black Panther
+Description: A superhero film about a king.
+Release year: 2018
+Rating: 7.3
+
+
+Title: Captain America
+Description: A superhero film about a soldier.
+Release year: 2011
+Rating: 6.9
+
+
+Title: Harry Potter
+Description: A fantasy film about a wizard.
+Release year: 2001
+Rating: 7.6
+
+
+Title: Indiana Jones
+Description: An adventure film about an archaeologist.
+Release year: 1981
+Rating: 8.4
+
+
+Title: Jurassic Park
+Description: A sci-fi film about dinosaurs.
+Release year: 1993
+Rating: 8.1
+
+
+Title: Pirates of the Caribbean
+Description: An adventure film about pirates.
+Release year: 2003
+Rating: 8.0
+
+
+Title: Return of the Jedi
+Description: A sci-fi film about a final battle.
+Release year: 1983
+Rating: 8.3
+
+
+Title: Shrek
+Description: An animated film about an ogre.
+Release year: 2001
+Rating: 7.9
+
+
+Title: Schindler's List
+Description: A historical film about the Holocaust.
+Release year: 1993
+Rating: 8.9
+
+
+Title: Saving Private Ryan
+Description: A war film about a rescue mission.
+Release year: 1998
+Rating: 8.6
+
+
+Title: The Empire Strikes Back
+Description: A sci-fi film about a rebellion.
+Release year: 1980
+Rating: 8.7
+
+
+Title: The Lord of the Rings
+Description: A fantasy film about a ring.
+Release year: 2001
+Rating: 8.9
+
+
+Title: The Silence of the Lambs
+Description: A thriller film about a killer.
+Release year: 1991
+Rating: 8.6
+
+
+Title: The Godfather
+Description: A crime film about a mafia family.
+Release year: 1972
+Rating: 9.2
+
+
+Title: The Shawshank Redemption
+Description: A drama film about a prison break.
+Release year: 1994
+Rating: 9.2
+
+
+Title: The Incredibles
+Description: An animated film about a superhero family.
+Release year: 2004
+Rating: 8.0
+
+
+Title: The Lion King
+Description: An animated film about a lion prince.
+Release year: 1994
+Rating: 8.5
+
+
+Title: The Dark Knight
+Description: A superhero film about a chaotic city.
+Release year: 2008
+Rating: 9.0
+
+
+Title: The Sixth Sense
+Description: A thriller film about a twist ending.
+Release year: 1999
+Rating: 8.1
+
+
+Title: The Wizard of Oz
+Description: A fantasy film about a magical land.
+Release year: 1939
+Rating: 8.0
+
+
+Title: The Green Mile
+Description: A drama film about a prison guard.
+Release year: 1999
+Rating: 8.6
+
+
+Title: The Mummy
+Description: An adventure film about an ancient curse.
+Release year: 1999
+Rating: 7.0
+
+
+Title: Godzilla
+Description: A monster film about a giant lizard.
+Release year: 1954
+Rating: 7.5
+
+
+Title: King Kong
+Description: A monster film about a giant ape.
+Release year: 1933
+Rating: 7.9
+
+
+Title: Se7en
+Description: A thriller film about a serial killer.
+Release year: 1995
+Rating: 8.6
+
+
+Title: Thor
+Description: A superhero film about a god.
+Release year: 2011
+Rating: 7.0
+
+
+Title: Toy Story
+Description: An animated film about living toys.
+Release year: 1995
+Rating: 8.3
+
+
+Title: Alien
+Description: A sci-fi horror film about an alien.
+Release year: 1979
+Rating: 8.4
+
+
+Title: Frozen
+Description: An animated film about a snow queen.
+Release year: 2013
+Rating: 7.4
+
+
+Title: Fight Club
+Description: A drama film about an underground club.
+Release year: 1999
+Rating: 8.8
+
+
+Title: Inception
+Description: A sci-fi film about dreams.
+Release year: 2010
+Rating: 8.8
+
+
+Title: Iron Man
+Description: A superhero film about a tech genius.
+Release year: 2008
+Rating: 7.9
+
+
+Title: Spider-Man
+Description: A superhero film about a web-slinger.
+Release year: 2002
+Rating: 7.3
+
+
+Title: Terminator 2
+Description: A sci-fi film about a cyborg.
+Release year: 1991
+Rating: 8.5
+
+
+Title: The Hobbit
+Description: A fantasy film about a journey.
+Release year: 2012
+Rating: 7.8
+
+
+Title: The Matrix
+Description: A sci-fi film about a simulated reality.
+Release year: 1999
+Rating: 8.7
+
+

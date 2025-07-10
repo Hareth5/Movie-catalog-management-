@@ -1,0 +1,81 @@
+.button, .menu-button {
+    -fx-background-color: #17A2B8;
+    -fx-pref-width: 245px;
+    -fx-pref-height: 50px;
+    -fx-text-fill: #E9ECEF;
+    -fx-font-size: 20px;
+}
+
+.button:hover {
+    -fx-background-color: #138496;
+    -fx-text-fill: #FFFFFF;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+
+.combo-box {
+    -fx-pref-width: 220px;
+    -fx-pref-height: 40px;
+    -fx-background-color: #ffffff;
+    -fx-font-size: 14px;
+}
+
+.radio-button {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+    -fx-padding: 5px;
+}
+
+.radio-button .radio {
+    -fx-background-color: #ffffff;
+    -fx-pref-width: 20px;
+    -fx-pref-height: 20px;
+}
+
+.radio-button:selected .radio {
+    -fx-background-color: #17A2B8;
+}
+
+.label {
+     -fx-font-size: 20;
+}
+
+.text-field {
+    -fx-pref-width: 220px;
+    -fx-background-color: #ffffff;
+}
+
+.text-field:focused {
+    -fx-border-color: #17A2B8;
+}
+
+.text-area {
+    -fx-font-size: 24px;
+}
+
+.date-picker {
+    -fx-pref-width: 250px;
+}
+
+.date-picker > .arrow-button {
+    -fx-pref-width: 30px;
+    -fx-pref-height: 30px;
+}
+
+.date-picker > .arrow-button > .arrow {
+    -fx-pref-width: 15px;
+    -fx-pref-height: 15px;
+}
+
+.date-picker-popup > * > .spinner > .button {
+    -fx-pref-width: 25px;
+    -fx-pref-height: 25px;
+}
+
+.date-picker-popup > * > .spinner > .button > .left-arrow,
+.date-picker-popup > * > .spinner > .button > .right-arrow {
+    -fx-pref-width: 10px;
+    -fx-pref-height: 10px;
+}
+
+
