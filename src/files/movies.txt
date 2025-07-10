@@ -280,9 +280,3 @@ Release year: 2012
 Rating: 7.8
 
 
-Title: The Matrix
-Description: A sci-fi film about a simulated reality.
-Release year: 1999
-Rating: 8.7
-
-
