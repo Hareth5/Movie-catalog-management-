@@ -6,7 +6,7 @@ A simple desktop Movie Catalog Management System built with **Java**, **JavaFX**
 
 * Manage movie records
 * Add, view, update, and delete movies
-* Search and organize movies using tree data structures
+* Search and organize movies using hash tables and tree data structures
 * JavaFX graphical interface
 * Local file-based data storage
 
